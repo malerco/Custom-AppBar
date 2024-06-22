@@ -1,3 +1,9 @@
+## Overview
+
+Custom expandable AppBar like in Telegram
+
+<img src="./screen.gif" alt="GIF" height="700">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
